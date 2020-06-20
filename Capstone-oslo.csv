@@ -1,16 +1,16 @@
-Borough;Price;Latitude;Longitude
-Alna;49 042;59,9314;10,8638
+Borough,Price,Latitude,Longitude
+Alna,49042,59.9314,10.8638
 Bjerke;58 834;59,9414;10,8199
 Frogner;87 923;59,9175;10,7066
 Gamle Oslo;74 605;59,9075;10,7621
 Grorud;49 224;59,9611;10,8832
-Grünerløkka;76 413;59,9274;10,7755
+GrÃ¼nerlÃ¸kka;76 413;59,9274;10,7755
 Nordre Aker;78 073;59,9547;10,7611
 Nordstrand;60 350;59,8836;10,7857
 Sagene;80 766;59,9382;10,7605
 St. Hanshaugen;81 649;59,9301;10,7418
 Stovner;42 394;59,9621;10,9226
-Søndre Nordstrand;41 235;59,8324;10,8276
+SÃ¸ndre Nordstrand;41 235;59,8324;10,8276
 Ullern;74 109;59,9289;10,6552
 Vestre Aker;67 186;59,9426;10,6556
-Østensjø;56 556;59,8918;10,8399
+Ã˜stensjÃ¸;56 556;59,8918;10,8399
