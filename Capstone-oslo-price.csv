@@ -1,16 +1,16 @@
-Borough;Price
-Alna;49 042
-Bjerke;58 834
-Frogner;87 923
-Gamle Oslo;74 605
-Grorud;49 224
-Grünerløkka;76 413
-Nordre Aker;78 073
-Nordstrand;60 350
-Sagene;80 766
-St. Hanshaugen;81 649
-Stovner;42 394
-Søndre Nordstrand;41 235
-Ullern;74 109
-Vestre Aker;67 186
-Østensjø;56 556
+Borough,Price
+Alna,49042
+Bjerke,58834
+Frogner,87923
+Gamle Oslo,74605
+Grorud,49224
+GrÃ¼nerlÃ¸kka,76413
+Nordre Aker,78073
+Nordstrand,60350
+Sagene,80766
+St. Hanshaugen,81649
+Stovner,42394
+SÃ¸ndre Nordstrand,41235
+Ullern,74109
+Vestre Aker,67186
+Ã˜stensjÃ¸,56556
